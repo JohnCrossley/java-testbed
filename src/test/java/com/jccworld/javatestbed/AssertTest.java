@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
  * User: jcc
  * Date: 24/05/15
  */
-public class CustomerTest {
+public class AssertTest {
     private static final String A_VALID_TITLE = "a valid title";
     private static final String A_VALID_FIRST_NAME = "a valid first name";
     private static final String A_VALID_LAST_NAME = "a valid last name";

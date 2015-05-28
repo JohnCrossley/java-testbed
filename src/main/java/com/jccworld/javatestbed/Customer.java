@@ -5,9 +5,9 @@ package com.jccworld.javatestbed;
  * Date: 24/05/15
  */
 public class Customer {
-    final String title;
-    final String firstName;
-    final String lastName;
+    private final String title;
+    private final String firstName;
+    private final String lastName;
 
     public Customer(String title, String firstName, String lastName) {
         this.title = title;
