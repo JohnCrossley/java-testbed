@@ -7,4 +7,8 @@ public class Delegate {
     public void handle(final Private p) {
         //NO-OP
     }
+
+    public void handle(final Transaction t) {
+        //NO-OP
+    }
 }
